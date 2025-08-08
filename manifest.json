@@ -7,7 +7,15 @@
       "review/band/main-2.png",
       "review/band/main-3.png",
       "review/band/about-1.png",
-      "review/band/about-2.png"
+      "review/band/about-2.png",
+      "review/band-o66/o66-light-no.png",
+      "review/band-o66/o66-dark-no.png",
+      "review/band-o66/o66-about-no-1.png",
+      "review/band-o66/o66-about-no-2.png",
+      "review/band-o66/o66-dark-yes.png",
+      "review/band-o66/o66-light-yes.png",
+      "review/band-o66/o66-about-yes-1.png",
+      "review/band-o66/o66-about-yes-2.png"
     ],
     "icon": "logo.png",
     "source_url": "https://github.com/CheongSzesuen/Isotope2048",
@@ -26,6 +34,14 @@
     "n66": {
       "version": "1.2",
       "file_name": "rpk/band/com.isotope.2048.band.release.1.2.rpk"
+    },
+    "o66": {
+      "version": "1.2",
+      "file_name": "rpk/band-o66/com.isotope.2048.band.o66.release.1.2.rpk"
+    },
+    "o66nfc": {
+      "version": "1.2",
+      "file_name": "rpk/band-o66/com.isotope.2048.band.o66.release.1.2.rpk"
     }
   }
 }
